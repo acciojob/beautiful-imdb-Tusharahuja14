@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.moviePic{
+margin-left:30%;
+border-radius:10px;	
+}
+img{
+height:200px;
+width:195px;
+opacity:0.9;
+	border-radius:4px;
+}
+p{
+	
+	text-align:justify;
+	font-size:15px;
+	text-decoration:j
+}
+.movieDetail{
+	
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	background-color:gray;
+	width:195px;
+    color:white;
+	margin-top:20px;
+	padding:2px;
+	border-radius:4px
+}
